@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5431/phonebook
+    username: qsymond
+    password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8080

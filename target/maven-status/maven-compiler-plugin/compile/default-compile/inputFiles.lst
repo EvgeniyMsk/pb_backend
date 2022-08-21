@@ -1,0 +1,13 @@
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/Requests/DepartmentIdRequest.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/repository/PersonRepository.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/entity/dto/DepartmentDTO.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/entity/Person.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/controller/DepartmentController.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/repository/DepartmentRepository.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/service/PersonService.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/entity/dto/PersonDTO.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/Requests/PersonIdRequest.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/MainApplication.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/entity/Department.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/controller/PersonController.java
+/Users/qsymond/Desktop/phonebook_backend/src/main/java/ou/phonebook/service/DepartmentService.java
